@@ -1,4 +1,4 @@
-# Git Assignment 2 --owner version
+# Git Assignment 2 -- collab version
 
 # 
 
